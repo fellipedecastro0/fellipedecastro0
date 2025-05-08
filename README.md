@@ -1,9 +1,7 @@
 # 💫 About Me:
 👋 Olá! Sou Fellipe de Castro Oliveira.
 🎓 Estudante de Engenharia de Software – 2º semestre no CEUB.
-📊 Interessado na área de Dados, aprendendo Python e fundamentos de análise de dados.
-💻 Também estudando HTML, CSS e JavaScript para ampliar minha base técnica.
-🚀 Em busca de experiência prática e oportunidades para crescer como futuro profissional de Dados.
+
 
 
 ## 🌐 Socials:
